@@ -15,9 +15,12 @@ may be you have to perform this process multiple times and use multiple tools (e
       nmap -T4 -A -v 192.168.32.129
   ![aggressive Scan](images/nmap_agressive_scan.png)
 
+
   Output i got i this 
   ![Output](images/nmap_agressive_scan_output.png)
      
+
+
 
 Now we know that two ports are OPEN and we have the services' names  as well.
 

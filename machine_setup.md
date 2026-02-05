@@ -39,7 +39,7 @@ On virtualization platforms like VMware , it performs DHCP by using Network Addr
       nmap 192.168.32.0/24 
 
         use your machine's ip subnet to scan it using NMAP and it would look like this 
-          ![see here](<images/NMAP SUBNET SCAN.png>)
+    ![alt text](images/NMAP_SUBNET_SCAN.png)
           
 
      

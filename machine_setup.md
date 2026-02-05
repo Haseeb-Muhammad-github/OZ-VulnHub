@@ -32,7 +32,7 @@ On virtualization platforms like VMware , it performs DHCP by using Network Addr
 6) Go to Kali terminal and use the tool ifconfig and  NMAP
      
      ifconfig will give you the IP of your kali machine
-       ![alt text](../images/IFCONFIG.png)
+       ![machine's IP](../images/IFCONFIG.png)
 
      now use Nmap and use this command 
 

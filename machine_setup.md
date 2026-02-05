@@ -32,14 +32,15 @@ On virtualization platforms like VMware , it performs DHCP by using Network Addr
 6) Go to Kali terminal and use the tool ifconfig and  NMAP
      
      ifconfig will give you the IP of your kali machine
-       ![machine's IP](../images/IFCONFIG.png)
+       ![alt text](images/IFCONFIG.png)
 
      now use Nmap and use this command 
 
       nmap 192.168.32.0/24 
 
         use your machine's ip subnet to scan it using NMAP and it would look like this 
-          ![alt text](../images/NMAP SUBNET SCAN.png)
+          ![see here](<images/NMAP SUBNET SCAN.png>)
+          
 
      
 7)  Now you are all set and just use this ip of the machine with everything that you wanna do with it 
